@@ -26,10 +26,4 @@ int main() {
 		printf("%3 ");
 		printf("%d\n", sum2);
 	}
-
-	
-	
-
-
-
 }
