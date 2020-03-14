@@ -12,7 +12,7 @@ int main() {
 			scanf("%d %d %d", &a, &b, &c);
 			if (a < 0 && b < 0 && c < 0) {
 				a = 0;
-				b-
+				b--;
 			}
 			if (a > b&&a > c) {
 				sum += a;

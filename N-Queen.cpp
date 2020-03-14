@@ -47,7 +47,6 @@ void q(int x, int L) {
 }
 
 int main() {
-	freopen("output.txt", "w", stdout);
 	scanf("%d", &n);
 	for (int i = 1; i <= n; i++) {
 		q(i, 1);

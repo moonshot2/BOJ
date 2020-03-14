@@ -23,7 +23,7 @@ void run() {
 		}
 		k = k - 1;
 		if (k == 0) { 
-			print(); 
+			print();
 		}
 		for (i = 1; i <= k; i++) {
 			h = h + sw;
